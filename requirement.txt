@@ -1,0 +1,7 @@
+torch
+numpy
+pillow
+opencv-python
+scipy
+json
+shutil
