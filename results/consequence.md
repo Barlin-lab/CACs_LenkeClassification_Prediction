@@ -1,1 +1,1 @@
-Ultimate result will be represented in a directory
+Ultimate result will be represented in this directory
